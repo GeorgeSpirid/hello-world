@@ -1,2 +1,3 @@
 # hello-world
-In this repository we talk about different project ideas, share and discuss general questions with others.
+Im George, 
+in this repository we talk about different project ideas, share and discuss general questions with others.
